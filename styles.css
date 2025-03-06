@@ -1,0 +1,31 @@
+* {
+    font-family: "Arial";
+}
+
+h1 {
+    background-color: green;
+    color: white;
+}
+
+.rcp-list {
+    background-color: gray;
+    color: aquamarine;
+}
+
+h3 {
+    background-color: black;
+    color: rgb(204, 204, 31);
+    font-family: "Papyrus";
+}
+
+.ingredients {
+    background-color: purple;
+    color: green;
+    padding: 5%;
+}
+
+.instructions {
+    background-color: yellow;
+    color: purple;
+    padding: 5%;
+}
